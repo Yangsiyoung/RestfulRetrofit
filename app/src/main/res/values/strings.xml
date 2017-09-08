@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RestfulRetrofit</string>
+    <string name="appToken">eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VyX3R5cGUiOjAsInVpZHgiOiIzNSJ9.bnwtOxz35NvvTOQYfiHC6xuhmzM_PGMBsc-h6MYaCvBp6jREBj9-tLPIpeZj206GrSfqCHHsJEa8JXZbbfg3xA</string>
 </resources>
